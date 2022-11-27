@@ -1,0 +1,9 @@
+F:\college\level 3\c#\project\project\bin\Debug\project.exe.config
+F:\college\level 3\c#\project\project\bin\Debug\project.exe
+F:\college\level 3\c#\project\project\bin\Debug\project.pdb
+F:\college\level 3\c#\project\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+F:\college\level 3\c#\project\project\obj\Debug\project.Form1.resources
+F:\college\level 3\c#\project\project\obj\Debug\project.Properties.Resources.resources
+F:\college\level 3\c#\project\project\obj\Debug\project.csproj.GenerateResource.Cache
+F:\college\level 3\c#\project\project\obj\Debug\project.exe
+F:\college\level 3\c#\project\project\obj\Debug\project.pdb
